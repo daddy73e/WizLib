@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "HaishinKit",
+        "repositoryURL": "https://github.com/shogo4405/HaishinKit.swift.git",
+        "state": {
+          "branch": null,
+          "revision": "071a070fac41706f71e73d10b36cf9ad904b58f7",
+          "version": "1.2.2"
+        }
+      },
+      {
+        "package": "Logboard",
+        "repositoryURL": "https://github.com/shogo4405/Logboard.git",
+        "state": {
+          "branch": null,
+          "revision": "8cc7656b07e4d327fae42e1320e2e48b8868e3f6",
+          "version": "2.2.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
