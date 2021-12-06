@@ -13,6 +13,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/shogo4405/HaishinKit.swift.git", from: "1.1.6"),
+        .package(url: "https://github.com/socketio/socket.io-client-swift.git", from: "16.0.1"),
     ],
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
